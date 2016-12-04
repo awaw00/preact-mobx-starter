@@ -1,7 +1,8 @@
-<img src="./static/preact.svg" width="550"/>
 # Preact Mobx Starter
 
-## Features
+[Online demo](https://awaw00.github.io/preact-mobx-starter/)
+
+### Features
 
 - [preact](https://github.com/developit/preact)
 - [preact-compat](https://github.com/developit/preact-compat)
