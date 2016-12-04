@@ -1,5 +1,7 @@
 # Preact Mobx Starter
 
+[Online demo](https://awaw00.github.io/preact-mobx-starter/)
+
 ### Features
 
 - [preact](https://github.com/developit/preact)
