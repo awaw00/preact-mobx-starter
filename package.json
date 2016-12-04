@@ -36,6 +36,7 @@
     "classnames": "^2.2.5",
     "mobx": "^2.6.4",
     "mobx-react": "^4.0.3",
+    "normalize.css": "^5.0.0",
     "preact": "^6.4.0",
     "preact-compat": "^3.9.3",
     "rc-animate": "^2.3.1",
