@@ -10,7 +10,8 @@ function About () {
         <li>Preact: Fast, 3kB alternative to React, with the same ES2015 API.</li>
         <li>React router.</li>
         <li>Mobx state management.</li>
-        <li>Webpack.</li>
+        <li>PostCSS, Less, CSS Modules.</li>
+        <li>Webpack & HMR.</li>
       </ul>
     </div>
   );
