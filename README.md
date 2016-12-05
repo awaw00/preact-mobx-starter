@@ -11,4 +11,4 @@
 - PostCSS, Less, CSS Modules
 - Webpack & HMR
 
-Project structure is inspired by [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit#application-structure)
+Inspired by [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit#application-structure)
